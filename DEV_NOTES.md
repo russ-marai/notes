@@ -13,3 +13,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-06-13
 - Added type hints to helper functions
 - Bumped patch version
+
+## 2026-06-13
+- Added .editorconfig for consistent formatting
